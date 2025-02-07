@@ -10,4 +10,7 @@ Se hará un programa con java para un juego de amigo secreto
 
   3) Se creó la función para limpiar la caja donde se escribe.
   4) Función para actualizar la lista y se agrega en la interfaz
+  5) Función de sortear amigo
+     - Nota: toca revisar cód porque esta repitiendo nombre cuando sortea.
+     
      
