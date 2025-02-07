@@ -38,3 +38,17 @@ function actualizarLista(){
 
 }
 
+function sortearAmigo(){
+
+    if (ListaNombresParticipantes.length === 0){
+        alert('No hay amigos para sortear, agregue a sus amigos');
+        return;
+    }
+
+    let indiceAleatorio = Math.floor(Math.random()*ListaNombresParticipantes.length);
+
+    let amigoSorteado = ListaNombresParticipantes[indiceAleatorio];
+
+    document.getElementById("resultado").innerHTML = `<li>${amigoSorteado}</li>`;
+}
+
