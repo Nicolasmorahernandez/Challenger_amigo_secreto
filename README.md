@@ -8,8 +8,8 @@ conocimientos de lógica de programación. Donde se practicó la manipulación d
 funciones, entre otros.
 
 # 🚀 Funcionalidades Principales
-1. Agregar nombres a una lista
-2. Validación de campos vacíos
+1. Agregar nombres a una lista.
+2. Validación de campos vacíos.
 3. Visualizar la lista de amigos ingresados con innerHTML.
 4. Realizar un sorteo aleatorio para seleccionar un amigo utiizando Math.random().
 
