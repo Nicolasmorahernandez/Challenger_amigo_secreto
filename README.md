@@ -19,6 +19,12 @@ funciones, entre otros.
 3. Verás que los nombres se agregan a una lista.
 4. Haz click en "Sortear amigo" y mostrará el amigo seleccionada aleatoriamente.
 
+# 🖼️ Capturas de pantalla
+![imagen](https://github.com/user-attachments/assets/bfe9288c-8301-40f6-a52f-c91b5202e7ee)
+![imagen](https://github.com/user-attachments/assets/28c4e8f2-86d7-4070-abd0-f2349c34be34)
+
+
+
 # ❌ Posibles mejoras
 - Evitar que un amigo sea sorteado más de una vez.
 
